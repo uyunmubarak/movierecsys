@@ -1,0 +1,4 @@
+model/cosine_sim.pkl
+model/knn_baseline.pkl
+data/ml-25m/movies.csv
+data/ml-25m/ratings.csv
